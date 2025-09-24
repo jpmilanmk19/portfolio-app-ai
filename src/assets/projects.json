@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Portfolio Application",
+        "description": "A fully responsive portfolio application built from scratch using React and GitHub Copilot. The project showcases modern UI design, clean component structure, and demonstrates how AI-powered coding assistance can accelerate development. It serves as a central hub to highlight skills, projects, and contact information. The application is fully developed using AI tools, showcasing the potential of AI in software development.",
+        "technologies": [
+            "React",
+            "Tailwind CSS",
+            "GitHub Copilot"
+        ],
+        "year": 2025
+    },
+    {
+        "title": "Device Management",
+        "description": "A comprehensive device management system that installs, configures, manages, monitors, and reports on all network printers and multifunction devices. It streamlines device administration and provides detailed reporting for improved efficiency.",
+        "technologies": [
+            ".NET",
+            "ASPX Web Forms",
+            "MVC",
+            ".NET Core",
+            "SQL Server",
+            "JavaScript",
+            "Kendo UI"
+        ],
+        "year": "2021"
+    },
+    {
+        "title": "Project (Cannot disclose due to confidentiality)",
+        "description": "A secure enterprise platform that provides a unified solution for navigating tax matters across multiple jurisdictions. It enables clients to integrate with their financial systems, trace data, and access consistent analytics for reporting and reconciliation.",
+        "technologies": [
+            ".NET",
+            "ASPX Web Forms",
+            "JavaScript",
+            "Reusable JavaScript Components",
+            "SQL Server"
+        ],
+        "year": 2020
+    },
+    {
+        "title": "Project (Cannot disclose due to confidentiality)",
+        "description": "A trucks-focused fleet management platform offering a comprehensive suite of services. It helps organizations save fuel, optimize routes, and plan transports more efficiently.",
+        "technologies": [
+            ".NET Core",
+            "Angular",
+            "SQL Server"
+        ],
+        "year": 2019
+    }
+]
