@@ -13,7 +13,10 @@ export default function Navbar() {
             <nav className="fixed top-0 w-full bg-white shadow-md z-10">
 
                 <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-center md:justify-between items-center p-4">
-                    <h1 className="text-xl font-bold mb-2 md:mb-0">My Portfolio</h1>
+                    {/* title should point to the home page */}
+                    <h1 className="text-xl font-bold mb-2 md:mb-0">
+                        <Link to="/">My Portfolio</Link>
+                    </h1>
                     <div className="space-x-4 flex justify-center">
                         <Link to="/" className="hover:text-blue-500">About Me</Link>
                         <Link to="/projects" className="hover:text-blue-500">Projects</Link>
