@@ -15,9 +15,9 @@ export default function Navbar() {
                 <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-center md:justify-between items-center p-4">
                     <h1 className="text-xl font-bold mb-2 md:mb-0">My Portfolio</h1>
                     <div className="space-x-4 flex justify-center">
-                        <Link to="/" className="hover:text-blue-500">About Me</Link>
-                        <Link to="/projects" className="hover:text-blue-500">Projects</Link>
-                        <Link to="/contact" className="hover:text-blue-500">Contact</Link>
+                        <Link to="portfolio-app-ai/" className="hover:text-blue-500">About Me</Link>
+                        <Link to="portfolio-app-ai/projects" className="hover:text-blue-500">Projects</Link>
+                        <Link to="portfolio-app-ai/contact" className="hover:text-blue-500">Contact</Link>
                     </div>
                 </div>
             </nav>

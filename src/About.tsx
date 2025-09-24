@@ -1,3 +1,5 @@
+import profile from './assets/profile.jpg';
+
 // Create a section with title "About" and some placeholder text. Use Tainlwind CSS for styling.
 export default function About() {
     return (
@@ -5,7 +7,7 @@ export default function About() {
             <div className="flex flex-col md:flex-row items-center gap-8">
                 {/* Profile image can be any image or icons from tailwind css */}
                 <img
-                    src="./src/assets/profile.jpg"
+                    src={profile}
                     alt="Milan M K"
                     className="w-75 h-75 rounded-full object-cover border-4 border-blue-500 mb-6 md:mb-0"
                 />
